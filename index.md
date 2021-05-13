@@ -14,7 +14,8 @@ In order to download Omega, you will need to visit my linkvertise page and go th
 
 ```markdown
 
-I will leave the link once the website is done. Please keep visiting this page because that will happen very soon!
+I will leave the link once the website is done.
+Please keep visiting this page because that will happen very soon!
 
 ```
 
