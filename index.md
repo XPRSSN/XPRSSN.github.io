@@ -2,7 +2,7 @@
 
 My name is XPRSSN and I am the owner of XPRSSNCHEATS (also known an Omega).
 
-In case you want to, you can also find me on [YouTube](https://youtube.com/).
+In case you want to, you can also find me on [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 ### OMEGA
 
