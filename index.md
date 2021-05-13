@@ -12,7 +12,7 @@ Omega is my brand new Counter Strike: Global Offensive cheat made in the program
 
 In order to download Omega, you will need to visit my linkvertise page and go through the installer. Once you do that you will have the DLL file.
 
-'''
+'''markdown
 
 I will leave the link once the website is done. Please keep visiting this page because that will happen very soon!
 
