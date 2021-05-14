@@ -18,7 +18,7 @@ In order to download Omega, you will need to visit my [linkvertise](https://publ
 
 I will leave the link once the website is done. 
 Please keep visiting this page because that will happen very soon!
-While you wait you can go [here](https://www.boredbutton.com/).
+While you wait you can go here ([link](https://www.boredbutton.com/)).
 
 ```
 
