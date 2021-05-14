@@ -14,12 +14,12 @@ Omega is my brand new [Counter Strike: Global Offensive](https://store.steampowe
 
 In order to download Omega, you will need to visit my [linkvertise](https://publisher.linkvertise.com/) page and go through the installer. Once you do that you will have the DLL file.
 
-'''markdown
+```markdown
 
 I will leave the link once the website is done. 
 Please keep visiting this page because that will happen very soon!
 
-'''
+```
 
 ### Thank you!
 
