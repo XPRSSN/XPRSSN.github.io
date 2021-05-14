@@ -1,6 +1,6 @@
 ## Welcome to my Website! 
 
-My name is [XPRSSN](https://github.com/XPRSSN) and I am the owner of XPRSSNCHEATS (also known an Omega).
+My name is [XPRSSN](https://github.com/XPRSSN) and I am the owner of XPRSSNCHEATS.
 
 In case you want to, you can also find me on [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
@@ -18,6 +18,7 @@ In order to download Omega, you will need to visit my [linkvertise](https://publ
 
 I will leave the link once the website is done. 
 Please keep visiting this page because that will happen very soon!
+While you wait you can go [here](https://www.boredbutton.com/).
 
 ```
 
