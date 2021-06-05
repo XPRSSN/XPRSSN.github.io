@@ -7,7 +7,7 @@ In case you want to, you can also find me on [YouTube](https://www.youtube.com/w
  
 ### OMEGA
 
-Omega is my brand new [Counter Strike: Global Offensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) cheat made in the programming languace C++. Nowadays on version 3.1, Omega perfomsvery well in Hack Versus Hack (HvH), even against paid cheats like [Neverlose.cc!](https://neverlose.cc/)
+Omega is my brand new [Counter Strike: Global Offensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) cheat made in the programming languace C++. Nowadays on version 3.1, Omega perfoms very well in Hack Versus Hack (HvH), even against paid cheats like [Neverlose.cc!](https://neverlose.cc/)
 
 
 ### How to download the cheat.
