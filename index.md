@@ -15,7 +15,7 @@ Omega is my brand new [Counter Strike: Global Offensive](https://store.steampowe
 In order to download Omega, you will need to visit my [Fiverr gig](https://www.fiverr.com/xprssn/make-you-a-legit-and-rage-csgo-cheat?context_referrer=search_gigs&source=top-bar&ref_ctx_id=a167321d5579e9c55698d27af7d60adf&pckg_id=1&pos=5&context_type=auto&funnel=42b9f7f81f0c76f206e4cf722260ed1f)!
 
 
-### In case you get bored of cheating in CSGO on general:
+### In case you get bored of cheating in CSGO on general
 You can visit [this](https://www.boredbutton.com/) page! 
 
 
