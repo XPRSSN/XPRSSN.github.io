@@ -7,16 +7,16 @@ In case you want to, you can also find me on [YouTube](https://www.youtube.com/w
  
 ### OMEGA
 
-Omega is my brand new [Counter Strike: Global Offensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) cheat made in the programming languace C++. Nowadays on version 3.1, Omega perfoms very well in Hack Versus Hack (HvH), even against paid cheats like Neverlose!
+I am quite sorry to announce that development of the Omega project is currently at a pause due to updating issues and issues with the personal life of the developer (that being me). While Omega V3 is not currently working, Omega V2 is still working very well and I am willing to give it to anyone who contacts my Discord (XPRSSN#8473) for free. It also comes with a custom built loader made by me.
 
 
 ### How to get the cheat.
 
-In order to buy Omega, you will need to visit my [Fiverr gig](https://www.fiverr.com/xprssn/make-you-a-legit-and-rage-csgo-cheat?context_referrer=search_gigs&source=top-bar&ref_ctx_id=a167321d5579e9c55698d27af7d60adf&pckg_id=1&pos=5&context_type=auto&funnel=42b9f7f81f0c76f206e4cf722260ed1f)!
+I am also sorry to announce that Fiverr has removed my gig for Omega due to third party TOS violacions. However, you can still contact me on Discord (XPRSSN#8473) and I will give you Omega V2 along with the loader for free.
 
 
 ### If you happen to buy Omega
-If you happen to buy Omega I want to thank you for supporting me and helping me continue to develop the cheat by motivating me. We will stay strong and destroy in hvh!
+Well untill V4 releases (I'm not sure when I will release that), you can have V2 for free. V3 isn't working :(
 
 
 ### Thank you!
