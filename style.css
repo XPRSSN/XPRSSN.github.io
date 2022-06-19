@@ -1,0 +1,19 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: rgb(70, 19, 117);
+}
+
+table{
+    border: 2px; border-style:ridge; border-color:aliceblue; border-radius: 15px;
+}
+
+h1{
+    color:aliceblue
+}
+
+h3{
+    color:aliceblue
+}
